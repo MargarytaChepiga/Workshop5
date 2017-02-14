@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">My Fave Sites!</string>
+
+    <string-array name="description_array">
+        <item>Facebook is a rad site for old people</item>
+        <item>This is a great site to search for google</item>
+        <item>A great place to learn - your very own Hogwarts</item>
+    </string-array>
+
+
+</resources>
